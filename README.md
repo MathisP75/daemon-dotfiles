@@ -2,9 +2,9 @@
 
 Cyberpunk style KDE rice
 
-![daemon1](https://github.com/MathisP75/daemon-dotfiles/Screenshots/daemon1.png)
-![daemon2](https://github.com/MathisP75/daemon-dotfiles/Screenshots/daemon2.png)
-![daemon3](https://github.com/MathisP75/daemon-dotfiles/Screenshots/daemon3.png)
+![daemon1](https://github.com/MathisP75/daemon-dotfiles/blob/main/Screenshots/daemon1.png)
+![daemon2](https://github.com/MathisP75/daemon-dotfiles/blob/main/Screenshots/daemon2.png)
+![daemon3](https://github.com/MathisP75/daemon-dotfiles/blob/main/Screenshots/daemon3.png)
 
 All the theme files for this theme are based on existing ones, but have been heavily modified. Credit will still be given to the original themes.
 
