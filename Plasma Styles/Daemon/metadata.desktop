@@ -1,0 +1,17 @@
+[ContrastEffect]
+contrast=0.2
+enabled=false
+intensity=0.4
+saturation=1.7
+
+[Desktop Entry]
+Name=Daemon
+X-KDE-PluginInfo-Author=Alexey Varfolomeev
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=varlesh@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Daemon
+X-KDE-PluginInfo-Version=20220806.0.77
+X-KDE-PluginInfo-Website=
