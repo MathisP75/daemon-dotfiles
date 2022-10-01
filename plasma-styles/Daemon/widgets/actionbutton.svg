@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="70" version="1">
+ <defs id="nova">
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+  </style>
+ </defs>
+ <g id="normal" transform="matrix(1.6,0,0,1.6,67.344,3.056)">
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
+  <circle style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" cx="-32" cy="8" r="8" transform="matrix(1.015625,0,0,1.015625,0.4098513,-0.0349999)"/>
+ </g>
+ <g id="22-22-normal" transform="matrix(1.1,0,0,1.1,46.299,34.101)">
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
+  <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"/>
+ </g>
+ <g id="hover" transform="translate(21,-34)">
+  <rect style="opacity:0.001" width="32" height="32" x="11" y="34"/>
+  <path style="opacity:0.001;fill:#ffffff" d="M 27,37 A 13,13 0 0 0 14,50 13,13 0 0 0 14.021484,50.580078 13,13 0 0 1 27,38 13,13 0 0 1 39.978516,50.419922 13,13 0 0 0 40,50 13,13 0 0 0 27,37 Z"/>
+  <circle style="opacity:0.25;fill:currentColor" class="ColorScheme-Text" cx="27" cy="50" r="13"/>
+ </g>
+ <g id="focus" transform="translate(53,-71)">
+  <rect style="opacity:0.001" width="32" height="32" x="11" y="71"/>
+  <path style="opacity:0.001;fill:#ffffff" d="M 27,74 A 13,13 0 0 0 14,87 13,13 0 0 0 14.021484,87.580078 13,13 0 0 1 27,75 13,13 0 0 1 39.978516,87.419922 13,13 0 0 0 40,87 13,13 0 0 0 27,74 Z"/>
+  <circle style="opacity:0.25;fill:currentColor" class="ColorScheme-Text" cx="27" cy="87" r="13"/>
+ </g>
+ <g id="22-22-hover" transform="translate(-25,-13)">
+  <rect style="opacity:0.001" width="22" height="22" x="57" y="45"/>
+  <path style="opacity:0.001;fill:#ffffff" d="m 68,47 a 9.0000002,9.0000002 0 0 0 -9,9 9.0000002,9.0000002 0 0 0 0.0098,0.287109 A 9.0000002,9.0000002 0 0 1 68,47.5 9.0000002,9.0000002 0 0 1 76.990234,56.212891 9.0000002,9.0000002 0 0 0 77,56 9.0000002,9.0000002 0 0 0 68,47 Z"/>
+  <circle style="opacity:0.25;fill:currentColor" class="ColorScheme-Text" cx="68" cy="56" r="9"/>
+ </g>
+ <g id="22-22-focus" transform="translate(7.0000002,-50.000005)">
+  <rect style="opacity:0.001" width="22" height="22" x="57" y="82"/>
+  <path style="opacity:0.001;fill:#ffffff" d="m 68,84 a 9.0000002,9.0000002 0 0 0 -9,9 9.0000002,9.0000002 0 0 0 0.0098,0.287109 A 9.0000002,9.0000002 0 0 1 68,84.5 9.0000002,9.0000002 0 0 1 76.990234,93.212891 9.0000002,9.0000002 0 0 0 77,93 9.0000002,9.0000002 0 0 0 68,84 Z"/>
+  <circle style="opacity:0.25;fill:currentColor" class="ColorScheme-Text" cx="68" cy="93" r="9"/>
+ </g>
+ <g id="pressed" transform="translate(85,-34)">
+  <rect style="opacity:0.001" width="32" height="32" x="11" y="34"/>
+  <path style="opacity:0.001;fill:#ffffff" d="M 27,37 A 13,13 0 0 0 14,50 13,13 0 0 0 14.021484,50.580078 13,13 0 0 1 27,38 13,13 0 0 1 39.978516,50.419922 13,13 0 0 0 40,50 13,13 0 0 0 27,37 Z"/>
+  <circle style="opacity:0.25;fill:currentColor" class="ColorScheme-Text" cx="27" cy="50" r="13"/>
+ </g>
+ <g id="22-22-pressed" transform="translate(39,-13.000005)">
+  <rect style="opacity:0.001" width="22" height="22" x="57" y="45"/>
+  <path style="opacity:0.001;fill:#ffffff" d="m 68,47 a 9.0000002,9.0000002 0 0 0 -9,9 9.0000002,9.0000002 0 0 0 0.0098,0.287109 A 9.0000002,9.0000002 0 0 1 68,47.5 9.0000002,9.0000002 0 0 1 76.990234,56.212891 9.0000002,9.0000002 0 0 0 77,56 9.0000002,9.0000002 0 0 0 68,47 Z"/>
+  <circle style="opacity:0.25;fill:currentColor" class="ColorScheme-Text" cx="68" cy="56" r="9"/>
+ </g>
+ <g id="16-16-normal" transform="translate(-47,10)">
+  <rect style="opacity:0.001" width="16" height="16" x="47" y="44"/>
+  <circle style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" cx="55" cy="52" r="7"/>
+ </g>
+ <g id="16-16-hover" transform="translate(-118.13598,33.099895)">
+  <rect style="opacity:0.001" width="16" height="16" x="150.14" y="20.9"/>
+  <circle style="opacity:0.25;fill:currentColor" class="ColorScheme-Text" cx="158.136" cy="28.9" r="7"/>
+ </g>
+ <g id="16-16-focus" transform="translate(-86.135986,33.09989)">
+  <rect style="opacity:0.001" width="16" height="16" x="150.14" y="20.9"/>
+  <circle style="opacity:0.25;fill:currentColor" class="ColorScheme-Text" cx="158.136" cy="28.9" r="7"/>
+ </g>
+ <g id="16-16-pressed" transform="translate(-54.135986,33.09989)">
+  <rect style="opacity:0.001" width="16" height="16" x="150.14" y="20.9"/>
+  <circle style="opacity:0.25;fill:currentColor" class="ColorScheme-Text" cx="158.136" cy="28.9" r="7"/>
+ </g>
+</svg>
