@@ -346,16 +346,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="20.227097"
-     inkscape:cx="33.494673"
-     inkscape:cy="9.2203047"
+     inkscape:cx="57.10162"
+     inkscape:cy="13.125957"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
-     inkscape:window-width="3745"
-     inkscape:window-height="2129"
-     inkscape:window-x="95"
-     inkscape:window-y="0"
+     inkscape:window-width="3676"
+     inkscape:window-height="2031"
+     inkscape:window-x="146"
+     inkscape:window-y="54"
      inkscape:window-maximized="1"
      showborder="false"
      inkscape:showpageshadow="false"
@@ -403,7 +403,7 @@
        transform="translate(86.4,-3.2)" />
     <g
        id="active-center"
-       transform="matrix(0.02211836,0,0,-0.02211825,2.3498265,1117.2686)">
+       transform="matrix(0.02211836,0,0,-0.02211825,2.1633272,1118.8042)">
       <rect
          style="fill:none;stroke:#070d1a;stroke-width:93.8878;stroke-dasharray:none;stroke-opacity:1"
          id="rect313-6"
@@ -420,7 +420,7 @@
     </g>
     <g
        id="hover-center"
-       transform="matrix(0.02211825,0,0,-0.02211826,59.173331,1121.3591)">
+       transform="matrix(0.02211825,0,0,-0.02211826,57.508955,1122.4184)">
       <rect
          style="fill:none;stroke:#070d1a;stroke-width:2.07664;stroke-dasharray:none;stroke-opacity:1"
          id="rect313-6-2"
@@ -438,9 +438,9 @@
     </g>
     <g
        id="pressed-center"
-       transform="matrix(0.02211825,0,0,-0.02211836,49.284741,1117.3223)">
+       transform="matrix(0.02211825,0,0,-0.02211836,49.005122,1118.6849)">
       <rect
-         style="fill:none;stroke:#94f5eb;stroke-width:93.8878;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#fbfbfb;stroke-width:93.8878;stroke-dasharray:none;stroke-opacity:1"
          id="rect313-6-9"
          width="817.98297"
          height="817.97937"
@@ -448,14 +448,14 @@
          y="-929.46008"
          transform="scale(1,-1)" />
       <path
-         style="fill:none;stroke:#94f5eb;stroke-width:104.664;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#fbfbfb;stroke-width:104.664;stroke-dasharray:none;stroke-opacity:1"
          d="m -1091.9374,229.5682 412.80999,412.06492 402.84684,-395.06094"
          id="path1348-0-7"
          sodipodi:nodetypes="ccc" />
     </g>
     <g
        id="inactive-center"
-       transform="matrix(0.02211825,0,0,-0.02211835,93.232543,1134.7033)">
+       transform="matrix(0.02211825,0,0,-0.02211835,90.644611,1135.712)">
       <rect
          style="fill:none;stroke:#070d1a;stroke-width:93.8879;stroke-dasharray:none;stroke-opacity:1"
          id="rect313-6-3"
@@ -475,11 +475,11 @@
        id="rect313-6-1"
        width="18.092352"
        height="18.092361"
-       x="97.810043"
-       y="1097.2065" />
+       x="94.614853"
+       y="1098.1267" />
     <path
        style="fill:none;stroke:#070d1a;stroke-width:2.31499;stroke-dasharray:none;stroke-opacity:1"
-       d="m 97.713463,1112.687 9.130637,-9.1142 8.91026,8.7381"
+       d="m 94.518275,1113.6072 9.130635,-9.1142 8.91026,8.7381"
        id="path1348-0-2"
        sodipodi:nodetypes="ccc" />
     <g

@@ -346,16 +346,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="28.605436"
-     inkscape:cx="31.305239"
-     inkscape:cy="14.175627"
+     inkscape:cx="81.802634"
+     inkscape:cy="15.85363"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
-     inkscape:window-width="3639"
-     inkscape:window-height="2031"
-     inkscape:window-x="137"
-     inkscape:window-y="21"
+     inkscape:window-width="3668"
+     inkscape:window-height="2027"
+     inkscape:window-x="146"
+     inkscape:window-y="54"
      inkscape:window-maximized="0"
      showborder="false"
      inkscape:showpageshadow="false"
@@ -403,7 +403,7 @@
        transform="translate(86.4,-3.2)" />
     <g
        id="active-center"
-       transform="matrix(0.02211836,0,0,-0.02211825,2.3498265,1117.2686)">
+       transform="matrix(0.02211836,0,0,-0.02211825,2.3683512,1117.5251)">
       <rect
          style="fill:none;stroke:#070d1a;stroke-width:93.8878;stroke-dasharray:none;stroke-opacity:1"
          id="rect313"
@@ -420,9 +420,9 @@
     </g>
     <g
        id="hover-center"
-       transform="matrix(0.02211825,0,0,-0.02211826,24.718465,1117.1973)">
+       transform="matrix(0.02211825,0,0,-0.02211826,24.123458,1117.4885)">
       <rect
-         style="fill:none;stroke:#94f5eb;stroke-width:93.8881;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#fbfbfb;stroke-width:93.8881;stroke-dasharray:none;stroke-opacity:1"
          id="rect313-9"
          width="817.98297"
          height="817.98303"
@@ -430,14 +430,14 @@
          y="-871.80017"
          transform="scale(1,-1)" />
       <path
-         style="fill:none;stroke:#94f5eb;stroke-width:104.664;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#fbfbfb;stroke-width:104.664;stroke-dasharray:none;stroke-opacity:1"
          d="M 106.24367,171.90591 519.05365,583.97268 921.90048,188.90996"
          id="path1348-3"
          sodipodi:nodetypes="ccc" />
     </g>
     <g
        id="pressed-center"
-       transform="matrix(0.02211825,0,0,-0.02211836,115.43981,1119.1745)">
+       transform="matrix(0.02211825,0,0,-0.02211836,115.15652,1119.438)">
       <rect
          style="fill:none;stroke:#070d1a;stroke-width:2.07664;stroke-dasharray:none;stroke-opacity:1"
          id="rect313-6"
@@ -455,7 +455,7 @@
     </g>
     <g
        id="inactive-center"
-       transform="matrix(0.02211825,0,0,-0.02211835,137.32754,1136.5268)">
+       transform="matrix(0.02211825,0,0,-0.02211835,136.89016,1136.819)">
       <rect
          style="fill:none;stroke:#070d1a;stroke-width:2.07664;stroke-dasharray:none;stroke-opacity:1"
          id="rect313-62"
@@ -473,7 +473,7 @@
     </g>
     <g
        id="deactivated-center"
-       transform="matrix(0.02211825,0,0,-0.02211835,98.146687,1121.2793)">
+       transform="matrix(0.02211825,0,0,-0.02211835,97.802043,1121.6816)">
       <rect
          style="fill:none;stroke:#070d1a;stroke-width:93.8879;stroke-dasharray:none;stroke-opacity:1"
          id="rect313-1"

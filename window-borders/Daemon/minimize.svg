@@ -345,17 +345,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.263214"
-     inkscape:cx="60.832018"
-     inkscape:cy="18.190231"
+     inkscape:zoom="37.052856"
+     inkscape:cx="88.00941"
+     inkscape:cy="21.847169"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
-     inkscape:window-width="3745"
-     inkscape:window-height="2129"
-     inkscape:window-x="95"
-     inkscape:window-y="0"
+     inkscape:window-width="3676"
+     inkscape:window-height="2031"
+     inkscape:window-x="146"
+     inkscape:window-y="54"
      inkscape:window-maximized="1"
      showborder="false"
      inkscape:showpageshadow="false"
@@ -403,7 +403,7 @@
        transform="translate(86.4,-3.2)" />
     <g
        id="active-center"
-       transform="matrix(-0.02211825,0,0,0.02211825,22.691834,1097.4856)">
+       transform="matrix(-0.02211825,0,0,0.02211825,22.58388,1098.246)">
       <rect
          style="fill:none;stroke:#070d1a;stroke-width:93.8881;stroke-dasharray:none;stroke-opacity:1"
          id="rect313"
@@ -420,9 +420,9 @@
     </g>
     <g
        id="hover-center"
-       transform="matrix(0.02211825,0,0,-0.02211835,27.612082,1118.5092)">
+       transform="matrix(0.02211825,0,0,-0.02211835,25.709447,1119.2667)">
       <rect
-         style="fill:none;stroke:#94f5eb;stroke-width:93.8879;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#fbfbfb;stroke-width:93.8879;stroke-dasharray:none;stroke-opacity:1"
          id="rect313-7"
          width="817.98297"
          height="817.97974"
@@ -430,14 +430,14 @@
          y="70.697472"
          transform="scale(-1,1)" />
       <path
-         style="fill:none;stroke:#94f5eb;stroke-width:104.664;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#fbfbfb;stroke-width:104.664;stroke-dasharray:none;stroke-opacity:1"
          d="M 890.24191,770.59389 477.43195,358.52879 74.585117,753.58991"
          id="path1348-9"
          sodipodi:nodetypes="ccc" />
     </g>
     <g
        id="inactive-center"
-       transform="matrix(0.02211826,0,0,-0.02211835,74.253664,1118.3354)">
+       transform="matrix(0.02211826,0,0,-0.02211835,72.343643,1118.9397)">
       <rect
          style="fill:none;stroke:#070d1a;stroke-width:93.8878;stroke-dasharray:none;stroke-opacity:1"
          id="rect313-2"
@@ -454,7 +454,7 @@
     </g>
     <g
        id="pressed-center"
-       transform="matrix(0.02211815,0,0,-0.02211836,51.116041,1118.95)">
+       transform="matrix(0.02211815,0,0,-0.02211836,48.988524,1120.0342)">
       <rect
          style="fill:none;stroke:#070d1a;stroke-width:93.8881;stroke-dasharray:none;stroke-opacity:1"
          id="rect313-23"
@@ -471,7 +471,7 @@
     </g>
     <g
        id="deactivated-center"
-       transform="matrix(0.02211826,0,0,-0.02211835,96.976978,1118.1454)">
+       transform="matrix(0.02211826,0,0,-0.02211835,93.967118,1118.8339)">
       <rect
          style="fill:none;stroke:#070d1a;stroke-width:93.8878;stroke-dasharray:none;stroke-opacity:1"
          id="rect313-5"
