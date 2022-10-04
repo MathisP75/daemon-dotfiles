@@ -10,7 +10,7 @@ All the theme files for this theme are based on existing ones, but have been hea
 
 I think everything needed should be in there, let me know if there are missing elements.
 
-Please also note that the configuration seen in the screenshots has been perfectly adapted to my screen resolution and DPI (1920 x 1080 at 100% scale), so you might need to modify the size and placement of widgets and panels, as well as some wallpaper elements and the window snapping script. I included the .xcf of the wallpaper.
+Please also note that the configuration seen in the screenshots has been perfectly adapted to my screen resolution and DPI (1920 x 1080 at 100% scale), so you might need to modify the size and placement of widgets and panels, as well as some wallpaper elements and the FlexGrid (extention for window snapping) script. I included the .xcf of the wallpaper as well as a version for 3840 x 2160 at 125% scale.
 
 
 
@@ -52,6 +52,8 @@ and/or:
 
 - Colors: Daemon
 
+- Splash Screen: Daemon (modified from Blue Debian)
+
 - Window decorations: Daemon (modified from Fireflies Dark Round)
 
 - Font: Prototype (install it first through the Font Management section)
@@ -82,7 +84,7 @@ Widgets  and panels:
 
 The left panel contains: Application Launcher, Icons Only Task Manager and Pager
 
-The top panel contains: Global Menu, System Tray and Clocl
+The top panel contains: Global Menu, Networks, Display and Brightness, Bluetooth, Volume and Clock
 
 The widget in the bottom right corner is System Monitor Sensor
 
