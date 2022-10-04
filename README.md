@@ -28,12 +28,12 @@ cd into it
 
 Copy the files in their respective directories
 
-    cp -r plasma-styles/. ~/.local/share/plasma/desktoptheme/
+    mkdir -p ~/.local/share/plasma/desktoptheme && cp -r plasma-styles/. ~/.local/share/plasma/desktoptheme/
     cp -r colors/. ~/.local/share/color-schemes/
-    cp -r window-borders/. ~/.local/share/aurorae/themes/
+    mkdir -p ~/.local/share/aurorae/themes && cp -r window-borders/. ~/.local/share/aurorae/themes/
     cp -r icons/Daemon/ ~/.local/share/icons/
     cp -r kvantum-themes/. ~/.config/Kvantum/
-    cp -r global-theme/. ~/.local/share/plasma/look-and-feel/
+    mkdir -p ~/.local/share/plasma/look-and-feel && cp -r global-theme/. ~/.local/share/plasma/look-and-feel/
     cp -r kwin-scripts/flex-grid/. ~/.local/share/kwin/scripts/flexGrid/contents/code/
 
 
