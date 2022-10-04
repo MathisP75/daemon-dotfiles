@@ -78,6 +78,8 @@ Others:
 
 - Discord theme for BetterDiscord
 
+- Firefox theme: https://color.firefox.com/?theme=XQAAAAI2AQAAAAAAAABBKYhm849SCia3ftKEGccwS-xMDPrxiv6HGJPbXvFJjzza9aH0u2bKZrTXsKIKzakRjROnrUY-NkJX-YB7CghWuI1DF6B_g23WF3XEe9AfXuAcOldc2vl4ldKwbqDjvu_aovYKd3iF0CX03uPPM8nwNFM4575bBSZtcmybYKWrBrM2fuDQtO8tryjxuJdJGEElnbLz_KxsO3rQTKv13RIJkpjmeNMayn5ie30BLo4f_6LQ4AA
+
 
 
 Widgets  and panels:
