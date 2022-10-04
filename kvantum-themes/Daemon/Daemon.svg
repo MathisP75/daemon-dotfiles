@@ -21,15 +21,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="32"
-     inkscape:cx="122.78125"
-     inkscape:cy="152.92188"
+     inkscape:zoom="2"
+     inkscape:cx="433.5"
+     inkscape:cy="325.25"
      inkscape:window-width="3668"
      inkscape:window-height="2027"
      inkscape:window-x="146"
      inkscape:window-y="54"
      inkscape:window-maximized="0"
-     inkscape:current-layer="border-button-toggled-bottomright">
+     inkscape:current-layer="svg2055">
     <inkscape:grid
        type="xygrid"
        id="grid985"
@@ -55,7 +55,7 @@
     <color-profile
        name="Apple-RGB"
        xlink:href="file:///usr/share/color/icc/colord/AppleRGB.icc"
-       id="color-profile42147" />
+       id="color-profile15987" />
     <inkscape:path-effect
        effect="powerclip"
        id="path-effect9109"
@@ -1945,25 +1945,25 @@
      style="fill:#ffffff;fill-opacity:0"
      id="button-default-indicator" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#5beedc;fill-opacity:1;fill-rule:evenodd"
      id="expand-progress-pattern-normal-topleft"
      d="m 96.89923,325 1e-4,-12 h 11.9999 v 12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#5beedc;fill-opacity:1;fill-rule:evenodd"
      id="expand-progress-pattern-normal-top"
      d="m 125.39923,313 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#ffffff;fill-opacity:0"
+     style="fill:#5beedc;fill-opacity:1"
      id="path4884"
      d="m 96.89933,325 c 0,6.62742 5.37258,12 12,12 v -12 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#5beedc;fill-opacity:1;fill-rule:evenodd"
      id="expand-progress-pattern-normal-bottomleft"
      d="m 96.89933,325 h 12 v 12 h -12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#5beedc;fill-opacity:1;fill-rule:evenodd"
      id="expand-progress-pattern-normal-bottom"
      d="m 125.39923,325 h -16.5 v 12 h 16.5 z" />
   <path
@@ -2195,19 +2195,22 @@
      height="100%"
      xlink:href="#expand-progress-pattern-normal-topleft"
      id="expand-progress-pattern-normal-topright"
-     transform="matrix(-1,0,0,1,234.29847,0)" />
+     transform="matrix(-1,0,0,1,234.29847,0)"
+     style="fill:#5beedc;fill-opacity:1" />
   <use
      width="100%"
      height="100%"
      xlink:href="#path4884"
      id="use5143"
-     transform="matrix(-1,0,0,1,234.29847,0)" />
+     transform="matrix(-1,0,0,1,234.29847,0)"
+     style="fill:#5beedc;fill-opacity:1" />
   <use
      width="100%"
      height="100%"
      xlink:href="#expand-progress-pattern-normal-bottomleft"
      id="expand-progress-pattern-normal-bottomright"
-     transform="matrix(-1,0,0,1,234.29847,0)" />
+     transform="matrix(-1,0,0,1,234.29847,0)"
+     style="fill:#5beedc;fill-opacity:1" />
   <circle
      cx="122"
      cy="889.91992"
@@ -2232,16 +2235,9 @@
      width="100%"
      height="100%"
      style="opacity:0.5"
-     xlink:href="#path4884"
-     id="use8440"
-     transform="translate(47.100768)" />
-  <use
-     width="100%"
-     height="100%"
-     style="opacity:0.5"
      xlink:href="#expand-progress-pattern-normal-bottomleft"
      id="expand-progress-pattern-disabled-bottomleft"
-     transform="translate(47.100768)" />
+     transform="translate(47.100668)" />
   <use
      width="100%"
      height="100%"
@@ -2260,16 +2256,9 @@
      width="100%"
      height="100%"
      style="opacity:0.5"
-     xlink:href="#path4884"
-     id="use8448"
-     transform="matrix(-1,0,0,1,281.39924,0)" />
-  <use
-     width="100%"
-     height="100%"
-     style="opacity:0.5"
      xlink:href="#expand-progress-pattern-normal-bottomleft"
      id="expand-progress-pattern-disabled-bottomright"
-     transform="matrix(-1,0,0,1,281.39924,0)" />
+     transform="matrix(-1,0,0,1,281.39934,0)" />
   <path
      style="fill:#070d1a;fill-rule:evenodd"
      id="expand-tab-normal-top"

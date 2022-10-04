@@ -4,6 +4,24 @@ var layout = {
     "desktops": [
         {
             "applets": [
+            ],
+            "config": {
+                "/": {
+                    "ItemGeometries-1920x1080": "",
+                    "ItemGeometriesHorizontal": "",
+                    "formfactor": "0",
+                    "immutability": "1",
+                    "lastScreen": "1",
+                    "wallpaperplugin": "org.kde.image"
+                },
+                "/Wallpaper/org.kde.image/General": {
+                    "Image": "/home/mathis_kde/Pictures/Wallpapers/CyberWallLaptop3.png"
+                }
+            },
+            "wallpaperPlugin": "org.kde.image"
+        },
+        {
+            "applets": [
                 {
                     "config": {
                         "/": {
@@ -11,19 +29,20 @@ var layout = {
                         },
                         "/Appearance": {
                             "chartFace": "org.kde.ksysguard.horizontalbars",
-                            "showTitle": "false"
+                            "showTitle": "false",
+                            "title": "Daemon"
                         },
                         "/ConfigDialog": {
-                            "DialogHeight": "480",
-                            "DialogWidth": "640"
+                            "DialogHeight": "630",
+                            "DialogWidth": "840"
                         },
                         "/SensorColors": {
                             "cpu/all/usage": "91,238,220",
-                            "gpu/gpu0/usage": "91,238,220",
-                            "memory/physical/used": "91,238,220"
+                            "gpu/all/usage": "48,251,240",
+                            "memory/physical/usedPercent": "91,238,220"
                         },
                         "/Sensors": {
-                            "highPrioritySensorIds": "[\"cpu/all/usage\",\"gpu/gpu0/usage\",\"memory/physical/used\"]"
+                            "highPrioritySensorIds": "[\"cpu/all/usage\",\"gpu/all/usage\",\"memory/physical/usedPercent\"]"
                         }
                     },
                     "geometry.height": 0,
@@ -31,22 +50,22 @@ var layout = {
                     "geometry.x": 0,
                     "geometry.y": 0,
                     "plugin": "org.kde.plasma.systemmonitor",
-                    "title": "System Monitor Sensor"
+                    "title": "Daemon"
                 }
             ],
             "config": {
                 "/": {
-                    "ItemGeometries-1920x1080": "Applet-26:1264.29,800.347,352,160,0;",
-                    "ItemGeometries-3840x2160": "Applet-26:2992,1664,464,416,0;",
-                    "ItemGeometriesHorizontal": "Applet-26:1264.29,800.347,352,160,0;",
+                    "ItemGeometries-1920x1080": "Applet-60:1264,768.001,352,240,0;",
+                    "ItemGeometries-3840x2160": "Applet-60:3008,1760,448,256,0;",
+                    "ItemGeometriesHorizontal": "Applet-60:1264,768.001,352,240,0;",
                     "formfactor": "0",
                     "immutability": "1",
                     "lastScreen": "0",
                     "wallpaperplugin": "org.kde.image"
                 },
                 "/ConfigDialog": {
-                    "DialogHeight": "480",
-                    "DialogWidth": "640"
+                    "DialogHeight": "1020",
+                    "DialogWidth": "1454"
                 },
                 "/General": {
                     "ToolBoxButtonState": "top",
@@ -55,7 +74,8 @@ var layout = {
                     "locked": "true"
                 },
                 "/Wallpaper/org.kde.image/General": {
-                    "Image": "file:///usr/share/wallpapers/Daemon/CyberWallLaptop3.png"
+                    "Image": "file:///home/mathis_kde/Pictures/Wallpapers/CyberWallLaptop3.png",
+                    "SlidePaths": "/usr/share/wallpapers"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
@@ -128,8 +148,8 @@ var layout = {
                     "wallpaperplugin": "org.kde.image"
                 },
                 "/ConfigDialog": {
-                    "DialogHeight": "1080",
-                    "DialogWidth": "155"
+                    "DialogHeight": "2160",
+                    "DialogWidth": "185"
                 }
             },
             "height": 6.875,
@@ -153,10 +173,6 @@ var layout = {
                 },
                 {
                     "config": {
-                        "/ConfigDialog": {
-                            "DialogHeight": "480",
-                            "DialogWidth": "640"
-                        }
                     },
                     "plugin": "org.kde.plasma.appmenu"
                 },
@@ -168,10 +184,34 @@ var layout = {
                 {
                     "config": {
                         "/": {
+                            "PreloadWeight": "55"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.networkmanagement"
+                },
+                {
+                    "config": {
+                        "/": {
                             "PreloadWeight": "100"
                         }
                     },
-                    "plugin": "org.kde.plasma.systemtray"
+                    "plugin": "org.kde.plasma.battery"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "PreloadWeight": "65"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.bluetooth"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "PreloadWeight": "100"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.volume"
                 },
                 {
                     "config": {
@@ -205,7 +245,7 @@ var layout = {
                     "wallpaperplugin": "org.kde.image"
                 },
                 "/ConfigDialog": {
-                    "DialogHeight": "72",
+                    "DialogHeight": "68",
                     "DialogWidth": "1920"
                 }
             },
