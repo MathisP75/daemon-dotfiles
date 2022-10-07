@@ -21,14 +21,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="2"
-     inkscape:cx="433.5"
-     inkscape:cy="325.25"
-     inkscape:window-width="3668"
-     inkscape:window-height="2027"
-     inkscape:window-x="146"
-     inkscape:window-y="54"
-     inkscape:window-maximized="0"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="130.28442"
+     inkscape:cy="87.327687"
+     inkscape:window-width="1810"
+     inkscape:window-height="1024"
+     inkscape:window-x="110"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2055">
     <inkscape:grid
        type="xygrid"
@@ -55,7 +55,7 @@
     <color-profile
        name="Apple-RGB"
        xlink:href="file:///usr/share/color/icc/colord/AppleRGB.icc"
-       id="color-profile15987" />
+       id="color-profile2276" />
     <inkscape:path-effect
        effect="powerclip"
        id="path-effect9109"
@@ -2288,7 +2288,7 @@
      id="border-tab-focused-left"
      d="m 28.338782,388.27452 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-tab-toggled-left"
      d="m 28.338782,412.27452 h -16.5 v 12 h 16.5 z" />
   <path
@@ -2312,11 +2312,11 @@
      id="expand-tab-toggled-right"
      d="m 61.338782,400.27452 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-tab-toggled"
      d="m 44.838782,412.27452 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-tab-toggled-right"
      d="m 61.338782,412.27452 h -16.5 v 12 h 16.5 z" />
   <g
@@ -2730,25 +2730,25 @@
      id="expand-menuitem-toggled-left"
      d="m 28.088782,319.63726 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-pressed-topleft"
      d="m 107.9999,388.09657 v -12 H 95.999897 v 12"
      sodipodi:nodetypes="cccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-pressed-top"
      d="m 124.4999,376.09657 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-toggled-topleft"
      d="m 144,388.09657 1e-4,-12 H 156 v 12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-toggled-top"
      d="M 172.5,376.09657 H 156 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1"
+     style="fill:#1e3d40;fill-opacity:1"
      id="use5048"
      d="m 144.0001,388.09657 c 0,6.62742 5.37258,12 12,12 v -12 z" />
   <path
@@ -2761,7 +2761,7 @@
      id="expand-itemview-focused-top"
      d="m 219.23531,376.09657 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1"
+     style="fill:#1e3d40;fill-opacity:1"
      id="use5144"
      d="m 184.4999,388.09657 c 0,6.62742 -5.37258,12 -12,12 v -12 z" />
   <path
@@ -2796,145 +2796,145 @@
      id="expand-itemview-focused-right"
      d="m 61.281407,461.37102 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-toggled-left"
      d="m 28.281407,449.37102 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-toggled"
      d="m 44.781407,449.37102 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-toggled-right"
      d="m 61.281407,449.37102 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-toggled-bottomleft"
      d="m 144,388.09657 1e-4,12 H 156 v -12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-toggled-bottom"
      d="M 172.5,400.09657 H 156 v -12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-toggled-topright"
      d="m 184.5,388.09657 -1e-4,-12 H 172.5 v 12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-toggled-bottomright"
      d="m 184.5,388.09657 -1e-4,12 H 172.5 v -12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-pressed-bottomleft"
      d="m 95.999897,388.09657 v 12 H 107.9999 v -12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-pressed-bottom"
      d="m 124.4999,400.09657 h -16.5 v -12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-pressed-topright"
      d="m 136.4999,388.09657 v -12 h -12 v 12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-pressed-bottomright"
      d="m 136.4999,388.09657 v 12 h -12 v -12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-pressed-left"
      d="m 28.281407,437.37102 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-pressed"
      d="m 44.781407,437.37102 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="expand-itemview-pressed-right"
      d="m 61.281407,437.37102 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-toggled-topleft"
      d="m 144.0001,419.54093 v -12 h 12 v 12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-toggled-top"
      d="M 172.5,407.54093 H 156 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-toggled-bottomleft"
      d="m 144,419.54093 1e-4,12 H 156 v -12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-toggled-bottom"
      d="M 172.5,431.54093 H 156 v -12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-toggled-topright"
      d="m 184.5,419.54093 -1e-4,-12 H 172.5 v 12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-toggled-bottomright"
      d="m 184.5001,419.54093 -1e-4,12 h -11.9999 v -12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-toggled-left"
      d="m 28.281407,485.37102 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-toggled"
      d="m 44.781407,485.37102 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-toggled-right"
      d="m 61.281407,485.37102 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-pressed-topleft"
      d="m 96.89933,419.54093 -1e-4,-12 h 12.0001 v 12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-pressed-top"
      d="m 125.39923,407.54093 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-pressed-bottomleft"
      d="m 96.89923,419.54093 v 12 h 12 v -12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-pressed-bottom"
      d="m 125.39923,431.54093 h -16.5 v -12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-pressed-topright"
      d="m 137.39923,419.54093 v -12 h -12 v 12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-pressed-bottomright"
      d="m 137.39923,419.54093 v 12 h -12 v -12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-pressed-left"
      d="m 28.281407,473.37102 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-pressed"
      d="m 44.781407,473.37102 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#fb3048;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
      id="border-itemview-pressed-right"
      d="m 61.281407,473.37102 h -16.5 v 12 h 16.5 z" />
   <path

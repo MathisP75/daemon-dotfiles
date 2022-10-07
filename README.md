@@ -31,10 +31,11 @@ Copy the files in their respective directories
     mkdir -p ~/.local/share/plasma/desktoptheme && cp -r plasma-styles/. ~/.local/share/plasma/desktoptheme/
     cp -r colors/. ~/.local/share/color-schemes/
     mkdir -p ~/.local/share/aurorae/themes && cp -r window-borders/. ~/.local/share/aurorae/themes/
-    cp -r icons/Daemon/ ~/.local/share/icons/
+    cp -r icons/Daemon ~/.local/share/icons/
     cp -r kvantum-themes/. ~/.config/Kvantum/
     mkdir -p ~/.local/share/plasma/look-and-feel && cp -r global-theme/. ~/.local/share/plasma/look-and-feel/
     cp -r kwin-scripts/flex-grid/. ~/.local/share/kwin/scripts/flexGrid/contents/code/
+    cp -r splash-screen/. ~/.local/share/plasma/look-and-feel/
 
 
 
@@ -46,7 +47,7 @@ System Settings (apply the same in QT5 settings):
 
 and/or:
 
-- Application style: Kvantum-dark
+- Application style: Kvantum-dark (Important, some UI elements will not look right if kvantum dark is not selected in both qt5 settings and system settings)
 
 - Plasma style: Daemon (modified from Nova Color)
 
@@ -54,7 +55,7 @@ and/or:
 
 - Splash Screen: Daemon (modified from Blue Debian)
 
-- Window decorations: Daemon (modified from Fireflies Dark Round)
+- Window decorations: Daemon (modified from Fireflies Dark Round) with button size set at "Very Large"
 
 - Font: Prototype (install it first through the Font Management section)
 
@@ -76,9 +77,21 @@ Others:
 
 - If you want the same logo as me for the application launcher, I included it in the icons directory
 
-- Discord theme for BetterDiscord
+- Discord theme for BetterDiscord:
+
+        cp -r discord/. ~/.config/BetterDiscord/themes/
 
 - Firefox theme: https://color.firefox.com/?theme=XQAAAAI2AQAAAAAAAABBKYhm849SCia3ftKEGccwS-xMDPrxiv6HGJPbXvFJjzza9aH0u2bKZrTXsKIKzakRjROnrUY-NkJX-YB7CghWuI1DF6B_g23WF3XEe9AfXuAcOldc2vl4ldKwbqDjvu_aovYKd3iF0CX03uPPM8nwNFM4575bBSZtcmybYKWrBrM2fuDQtO8tryjxuJdJGEElnbLz_KxsO3rQTKv13RIJkpjmeNMayn5ie30BLo4f_6LQ4AA
+
+- Kate color scheme: You can import it in the application
+
+- Konsole color scheme:
+
+        sudo cp /konsole-colors/.  /usr/share/konsole/.
+
+- LibreOffice icons:
+
+        sudo cp /libreoffice-icons/.  /usr/lib/libreoffice/share/config/.
 
 
 

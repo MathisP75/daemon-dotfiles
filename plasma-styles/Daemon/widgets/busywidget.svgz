@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="112"
+   height="41"
+   version="1.1"
+   id="svg25"
+   sodipodi:docname="busywidget.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview27"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="11.473214"
+     inkscape:cx="64.541634"
+     inkscape:cy="28.544747"
+     inkscape:window-width="1768"
+     inkscape:window-height="969"
+     inkscape:window-x="138"
+     inkscape:window-y="54"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg25" />
+  <defs
+     id="nova">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+  </style>
+  </defs>
+  <rect
+     id="hint-rotation-angle"
+     style="fill:#ff00ff"
+     width="3.704"
+     height="3.704"
+     x="0"
+     y="0" />
+  <g
+     id="22-22-busywidget"
+     transform="matrix(3.7773007,0,0,3.7773007,-6.9679581,1.0317159)">
+    <rect
+       style="opacity:0.001"
+       width="5.82"
+       height="5.82"
+       x="6.61"
+       y="4.76"
+       id="rect5" />
+    <ellipse
+       style="fill:none;stroke:#5aeedc;stroke-width:0.674343;stroke-dasharray:4.04606, 1.34869;stroke-dashoffset:0"
+       id="path916-3"
+       cx="9.5201082"
+       cy="7.6716642"
+       rx="2.5689247"
+       ry="2.5689249" />
+  </g>
+  <g
+     id="16-16-busywidget"
+     transform="matrix(3.7798254,0,0,3.7798254,0,0.9981089)">
+    <rect
+       style="opacity:0.001"
+       width="4.233"
+       height="4.233"
+       x="0"
+       y="6.35"
+       id="rect10" />
+    <ellipse
+       style="opacity:1;fill:none;stroke:#5aeedc;stroke-width:0.491082;stroke-dasharray:2.9465, 0.982171;stroke-dashoffset:0"
+       id="path916"
+       cx="2.1165783"
+       cy="8.466588"
+       rx="1.8707916"
+       ry="1.8707917" />
+  </g>
+  <g
+     id="busywidget"
+     transform="matrix(7.5596507,0,0,7.5596507,44,-39.003781)">
+    <rect
+       style="opacity:0.001"
+       width="4.233"
+       height="4.233"
+       x="0"
+       y="6.35"
+       id="rect15" />
+    <ellipse
+       style="fill:none;stroke:#5aeedc;stroke-width:0.4911;stroke-dasharray:2.9466, 0.982201;stroke-dashoffset:0"
+       id="path916-3-6"
+       cx="2.1164806"
+       cy="8.5089731"
+       rx="1.8708518"
+       ry="1.870852" />
+  </g>
+  <g
+     id="stopped"
+     transform="matrix(3.7795628,0,0,3.7795628,-11.992336,0.98955013)">
+    <rect
+       style="opacity:0.001"
+       width="8.466"
+       height="8.466"
+       x="24.34"
+       y="2.12"
+       id="rect20" />
+    <path
+       style="fill:#5aeedc;fill-opacity:1"
+       class="ColorScheme-Highlight"
+       d="m 28.572354,2.1152942 a 4.2329413,4.2329412 0 0 0 -4.232942,4.232941 4.2329413,4.2329412 0 0 0 4.232942,4.2329408 4.2329413,4.2329412 0 0 0 4.232941,-4.2329408 4.2329413,4.2329412 0 0 0 -4.232941,-4.232941 z m 0,1.5873529 a 2.6455882,2.6455881 0 0 1 2.645588,2.6455881 2.6455882,2.6455881 0 0 1 -2.645588,2.6455881 2.6455882,2.6455881 0 0 1 -2.645589,-2.6455881 2.6455882,2.6455881 0 0 1 2.645589,-2.6455881 z"
+       id="path22" />
+  </g>
+</svg>
