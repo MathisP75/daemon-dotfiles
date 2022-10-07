@@ -55,7 +55,7 @@ and/or:
 
 - Splash Screen: Daemon (modified from Blue Debian)
 
-- Window decorations: Daemon (modified from Fireflies Dark Round) with button size set at "Very Large"
+- Window decorations: Daemon (modified from Fireflies Dark Round) with button size set at "Huge"
 
 - Font: Prototype (install it first through the Font Management section)
 
@@ -87,7 +87,7 @@ Others:
 
 - Konsole color scheme:
 
-        sudo cp /konsole-colors/.  /usr/share/konsole/.
+        sudo cp /konsole-colors/  /usr/share/konsole/.
 
 - LibreOffice icons:
 
