@@ -345,7 +345,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="20.227097"
+    inkscape:zoom="20.227097"
      inkscape:cx="57.10162"
      inkscape:cy="13.125957"
      inkscape:document-units="px"
@@ -388,7 +388,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -419,7 +418,7 @@
          sodipodi:nodetypes="ccc" />
     </g>
     <g
-       id="hover-center"
+       id="pressed-center"
        transform="matrix(0.02211825,0,0,-0.02211826,57.508955,1122.4184)">
       <rect
          style="fill:none;stroke:#070d1a;stroke-width:2.07664;stroke-dasharray:none;stroke-opacity:1"
@@ -437,7 +436,7 @@
          transform="matrix(45.211533,0,0,-45.211513,-1117.5597,50510.18)" />
     </g>
     <g
-       id="pressed-center"
+       id="hover-center"
        transform="matrix(0.02211825,0,0,-0.02211836,49.005122,1118.6849)">
       <rect
          style="fill:none;stroke:#fbfbfb;stroke-width:93.8878;stroke-dasharray:none;stroke-opacity:1"
@@ -470,20 +469,20 @@
          id="path1348-0-6"
          sodipodi:nodetypes="ccc" />
     </g>
-    <rect
-       style="fill:none;stroke:#070d1a;stroke-width:2.07664;stroke-dasharray:none;stroke-opacity:1"
-       id="rect313-6-1"
-       width="18.092352"
-       height="18.092361"
-       x="94.614853"
-       y="1098.1267" />
-    <path
-       style="fill:none;stroke:#070d1a;stroke-width:2.31499;stroke-dasharray:none;stroke-opacity:1"
-       d="m 94.518275,1113.6072 9.130635,-9.1142 8.91026,8.7381"
-       id="path1348-0-2"
-       sodipodi:nodetypes="ccc" />
     <g
-       id="deactivated-center"
-       transform="matrix(0.02211825,0,0,-0.02211835,98.146687,1121.2793)" />
+       id="deactivated-center">
+      <rect
+         style="fill:none;stroke:#070d1a;stroke-width:2.07664;stroke-dasharray:none;stroke-opacity:1"
+         id="rect313-6-1"
+         width="18.092352"
+         height="18.092361"
+         x="94.614853"
+         y="1098.1267" />
+      <path
+         style="fill:none;stroke:#070d1a;stroke-width:2.31499;stroke-dasharray:none;stroke-opacity:1"
+         d="m 94.518275,1113.6072 9.130635,-9.1142 8.91026,8.7381"
+         id="path1348-0-2"
+         sodipodi:nodetypes="ccc" />
+    </g>
   </g>
 </svg>
