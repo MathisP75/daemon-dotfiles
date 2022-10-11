@@ -25,9 +25,9 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="6.3893129"
-     inkscape:cx="59.083035"
-     inkscape:cy="64.873955"
+     inkscape:zoom="3.1946565"
+     inkscape:cx="63.387098"
+     inkscape:cy="64.013143"
      inkscape:window-width="1806"
      inkscape:window-height="1055"
      inkscape:window-x="114"
@@ -240,6 +240,19 @@
        class="ColorScheme-Highlight"
        fill="#FB3048"
        style="fill:#ff0000;fill-opacity:1" />
+  </g>
+  <g
+     id="decoration-maximized-center"
+     transform="translate(-177,252)">
+    <rect
+       id="rect7439-6"
+       width="80"
+       height="30"
+       x="97"
+       y="-252"
+       class="ColorScheme-Highlight"
+       fill="#FB3048"
+       style="color:#333333;fill:#ff0000;fill-opacity:1;stop-color:#333333" />
   </g>
   <g
      id="decoration-left"
