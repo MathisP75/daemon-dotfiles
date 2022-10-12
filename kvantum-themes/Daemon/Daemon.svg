@@ -21,14 +21,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="130.28442"
-     inkscape:cy="87.327687"
-     inkscape:window-width="1810"
-     inkscape:window-height="1024"
-     inkscape:window-x="110"
-     inkscape:window-y="36"
-     inkscape:window-maximized="1"
+     inkscape:zoom="2.4363214"
+     inkscape:cx="231.49655"
+     inkscape:cy="541.59521"
+     inkscape:window-width="1768"
+     inkscape:window-height="969"
+     inkscape:window-x="138"
+     inkscape:window-y="54"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2055">
     <inkscape:grid
        type="xygrid"
@@ -55,7 +55,7 @@
     <color-profile
        name="Apple-RGB"
        xlink:href="file:///usr/share/color/icc/colord/AppleRGB.icc"
-       id="color-profile2276" />
+       id="color-profile14565" />
     <inkscape:path-effect
        effect="powerclip"
        id="path-effect9109"
@@ -1379,7 +1379,7 @@
      x="394.18478"
      y="87.996841"
      height="8"
-     style="opacity:0;fill:none"
+     style="opacity:0;fill:#ffff00"
      id="toolbar-normal-top" />
   <rect
      width="16"
@@ -1509,14 +1509,14 @@
      xlink:href="#arrow-up-pressed"
      id="arrow-right-pressed"
      transform="rotate(90,171.7465,565.7465)"
-     style="fill:#f9f9f9;fill-opacity:1" />
+     style="fill:#0f0e15;fill-opacity:1" />
   <use
      width="450"
      height="1230"
      xlink:href="#arrow-up-pressed"
      id="arrow-left-pressed"
      transform="rotate(-90,191.74654,514.25348)"
-     style="fill:#f9f9f9;fill-opacity:1" />
+     style="fill:#0f0e15;fill-opacity:1" />
   <use
      width="450"
      height="1230"
@@ -2084,6 +2084,18 @@
      d="m 295,422 h -16.5 v 12 H 295 Z" />
   <path
      style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd"
+     id="button-separator-top"
+     d="m 331.28867,407.86906 h -16.5 v 12 h 16.5 z" />
+  <path
+     style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd"
+     id="button-separator"
+     d="m 347.78867,407.86906 h -16.5 v 12 h 16.5 z" />
+  <path
+     style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd"
+     id="button-separator-bottom"
+     d="m 364.28867,407.86906 h -16.5 v 12 h 16.5 z" />
+  <path
+     style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd"
      id="border-button-focused-left"
      d="m 262,434 h -16.5 v 12 H 262 Z" />
   <path
@@ -2260,11 +2272,11 @@
      id="expand-progress-pattern-disabled-bottomright"
      transform="matrix(-1,0,0,1,281.39934,0)" />
   <path
-     style="fill:#070d1a;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-rule:evenodd;fill-opacity:1"
      id="expand-tab-normal-top"
      d="m 58.25,783.75921 h -16.5 v 12 h 16.5 z" />
   <path
-     style="fill:#070d1a;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-rule:evenodd;fill-opacity:1"
      id="expand-tab-normal-bottom"
      d="m 58.25,807.75921 h -16.5 v -12 h 16.5 z" />
   <path
@@ -2542,24 +2554,52 @@
      d="m 29.75,830 v 12 h 6 6 v -12 z"
      sodipodi:nodetypes="cccccc" />
   <path
-     style="fill:#070d1a;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-rule:evenodd;fill-opacity:1"
      id="expand-tab-normal-topright"
      d="m 70.25,795.75921 v -6 -6 h -12 v 12 z"
      sodipodi:nodetypes="cccccc" />
   <path
-     style="fill:#070d1a;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-rule:evenodd;fill-opacity:1"
      id="expand-tab-normal-bottomleft"
      d="m 29.75,795.75921 v 6 6 h 12 v -12 z"
      sodipodi:nodetypes="cccccc" />
   <path
-     style="fill:#070d1a;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-rule:evenodd;fill-opacity:1"
      id="expand-tab-normal-topleft"
      d="m 29.75,795.75921 v -12 h 12 v 12 z"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#070d1a;fill-rule:evenodd"
+     style="fill:#1e3d40;fill-rule:evenodd;fill-opacity:1"
      id="expand-tab-normal-bottomright"
      d="m 70.25,795.75921 v 12 h -12 v -12 z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:#1e3d40;fill-rule:evenodd;fill-opacity:1"
+     id="expand-tab-toggled-top"
+     d="m 157.42408,782.67513 h -16.5 v 12 h 16.5 z" />
+  <path
+     style="fill:#1e3d40;fill-rule:evenodd;fill-opacity:1"
+     id="expand-tab-toggled-bottom"
+     d="m 157.42408,806.67513 h -16.5 v -12 h 16.5 z" />
+  <path
+     style="fill:#1e3d40;fill-rule:evenodd;fill-opacity:1"
+     id="expand-tab-toggled-topright"
+     d="m 169.42408,794.67513 v -6 -6 h -12 v 12 z"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     style="fill:#1e3d40;fill-rule:evenodd;fill-opacity:1"
+     id="expand-tab-toggled-bottomleft"
+     d="m 128.92408,794.67513 v 6 6 h 12 v -12 z"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     style="fill:#1e3d40;fill-rule:evenodd;fill-opacity:1"
+     id="expand-tab-toggled-topleft"
+     d="m 128.92408,794.67513 v -12 h 12 v 12 z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:#1e3d40;fill-rule:evenodd;fill-opacity:1"
+     id="expand-tab-toggled-bottomright"
+     d="m 169.42408,794.67513 v 12 h -12 v -12 z"
      sodipodi:nodetypes="ccccc" />
   <circle
      cx="270"
@@ -3073,6 +3113,28 @@
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:1.426;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 322.50001,809.99999 12,-12"
        id="path15381-6"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     style="fill-rule:evenodd"
+     id="tab-close-toggled"
+     transform="translate(63.12124,-35.556312)">
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:1.426;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12449-8-6"
+       width="12"
+       height="12"
+       x="322.5"
+       y="798" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:1.426;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 322.50001,797.99999 12,12"
+       id="path15344-5-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:1.426;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 322.50001,809.99999 12,-12"
+       id="path15381-6-5"
        sodipodi:nodetypes="cc" />
   </g>
   <use
@@ -3757,60 +3819,61 @@
   <g
      id="button-toggled"
      inkscape:label="button-toggled"
-     transform="translate(87.499991,222.4953)">
+     transform="translate(87.499991,222.4953)"
+     style="fill:#5beedc;fill-opacity:1">
     <path
-       style="fill:#0f0e15;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#5beedc;fill-opacity:1;fill-rule:evenodd"
        id="grae-3-7"
        d="m 22.5,17.5047 v 32.5 H 55 v -32.5 z" />
   </g>
   <g
-     style="fill-rule:evenodd"
+     style="fill-rule:evenodd;fill:#5beedc;fill-opacity:1"
      id="button-toggled-left"
      transform="matrix(1.36,0,0,1,70.840871,191.25316)">
     <path
-       style="fill:#f9f9f9;stroke-width:1.19523;fill-opacity:1"
+       style="fill:#5beedc;stroke-width:1.19523;fill-opacity:1"
        id="path4928-6-4"
        d="m 21.293474,48.746839 v 32.5 h 7.5 v -32.5 z" />
   </g>
   <g
-     style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#5beedc;fill-opacity:1;fill-rule:evenodd"
      id="button-toggled-right"
      transform="matrix(0.9920249,0,0,0.99825309,124.17928,193.76585)">
     <path
-       style="fill:#f9f9f9;fill-opacity:1;stroke-width:0.993657"
+       style="fill:#5beedc;fill-opacity:1;stroke-width:0.993657"
        id="path4862-5-7-0"
        d="M 26.532314,46.315057 V 78.871931 H 28.75 c -0.0069,-0.134354 0,-0.270963 0,-0.406961 V 46.722018 c 0,-0.135998 -0.0069,-0.272606 0,-0.406961 z" />
     <path
-       style="fill:#f9f9f9;fill-opacity:1;stroke-width:1.24047"
+       style="fill:#5beedc;fill-opacity:1;stroke-width:1.24047"
        id="path4928-3-5-3"
        d="m 18.468,46.315057 v 32.556874 h 8.064314 V 46.315057 Z" />
   </g>
   <g
      id="button-toggled-topleft"
      transform="matrix(0.84353136,0,0,1.3599086,90.958891,216.20091)"
-     style="fill:#f9f9f9;fill-opacity:1">
+     style="fill:#5beedc;fill-opacity:1">
     <rect
        width="12.092022"
        x="10.481068"
        y="10"
        height="7.500504"
-       style="fill:#f9f9f9;fill-opacity:1;stroke-width:1.26979"
+       style="fill:#5beedc;fill-opacity:1;stroke-width:1.26979"
        id="rect4907-3-1" />
   </g>
   <g
      id="button-toggled-topright"
      transform="matrix(0.99668738,0,0,0.99597752,127.56053,219.84023)"
      inkscape:label="button-toggled-topright"
-     style="fill:#f9f9f9;fill-opacity:1">
+     style="fill:#5beedc;fill-opacity:1">
     <rect
        width="10.233901"
        x="15"
        y="10"
        height="10.241195"
-       style="fill:#f9f9f9;fill-opacity:1;stroke-width:1.36501"
+       style="fill:#5beedc;fill-opacity:1;stroke-width:1.36501"
        id="rect4907-1-56-6" />
     <path
-       style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke-width:1.52606"
+       style="fill:#5beedc;fill-opacity:1;fill-rule:evenodd;stroke-width:1.52606"
        id="path4968-2-2-3"
        d="m 23.004829,20.241195 0.02176,-8.03231 L 15,12.222325 v 8.018865 z"
        sodipodi:nodetypes="ccccc" />
@@ -3819,52 +3882,52 @@
      id="button-toggled-bottomright"
      transform="matrix(0,1.2743717,-1.2726808,0,164.77191,253.38442)"
      inkscape:label="button-toggled-bottomright"
-     style="fill:#f9f9f9;fill-opacity:1">
+     style="fill:#5beedc;fill-opacity:1">
     <rect
        width="8.0039444"
        x="15"
        y="9.4854212"
        height="8.0145788"
-       style="fill:#f9f9f9;fill-opacity:1;stroke-width:1.0679"
+       style="fill:#5beedc;fill-opacity:1;stroke-width:1.0679"
        id="rect4907-1-9-9-0"
        clip-path="none" />
   </g>
   <g
-     style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#5beedc;fill-opacity:1;fill-rule:evenodd"
      id="button-toggled-top"
      transform="matrix(0,0.99512195,-1,0,191.24683,208.61463)">
     <path
-       style="fill:#f9f9f9;fill-opacity:1;stroke-width:0.991247"
+       style="fill:#5beedc;fill-opacity:1;stroke-width:0.991247"
        id="path5558-2-1"
        d="m 21.289216,48.746839 v 32.5 H 23.5 c -0.0069,-0.13412 0,-0.27049 0,-0.40625 v -31.6875 c 0,-0.13576 -0.0069,-0.27213 0,-0.40625 z" />
     <path
-       style="fill:#f9f9f9;fill-opacity:1;stroke-width:1.23745"
+       style="fill:#5beedc;fill-opacity:1;stroke-width:1.23745"
        id="path5560-7-5"
        d="m 23.5,48.746839 v 32.5 h 8.039216 v -32.5 z" />
   </g>
   <g
-     style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#5beedc;fill-opacity:1;fill-rule:evenodd"
      id="button-toggled-bottom"
      transform="matrix(0,-0.99300864,0.9978559,0,61.357711,303.83571)">
     <path
-       style="fill:#f9f9f9;fill-opacity:1;stroke-width:0.993364"
+       style="fill:#5beedc;fill-opacity:1;stroke-width:0.993364"
        id="path5550-0-4"
        d="M 21.284511,48.7468 V 81.316633 H 23.5 c -0.0069,-0.134408 0,-0.271071 0,-0.407123 V 49.153923 c 0,-0.136052 -0.0069,-0.272715 0,-0.407123 z" />
     <path
-       style="fill:#f9f9f9;fill-opacity:1;stroke-width:1.24009"
+       style="fill:#5beedc;fill-opacity:1;stroke-width:1.24009"
        id="path5552-9-7"
        d="m 23.5,48.7468 v 32.569833 h 8.056325 V 48.7468 Z" />
   </g>
   <g
      id="button-toggled-bottomleft"
      transform="matrix(0,-1.36,0.84698424,0,95.151251,303.1)"
-     style="fill:#f9f9f9;fill-opacity:1">
+     style="fill:#5beedc;fill-opacity:1">
     <rect
        width="7.5"
        x="15"
        y="5.4885859"
        height="12.042727"
-       style="fill:#f9f9f9;fill-opacity:1;stroke-width:1.26716"
+       style="fill:#5beedc;fill-opacity:1;stroke-width:1.26716"
        id="rect5544-3-5" />
   </g>
   <g
@@ -4105,4 +4168,69 @@
      style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd"
      id="border-button-toggled-right"
      d="m 294.75,488 h -16.5 v 12 h 16.5 z" />
+  <g
+     id="expand-button-toggled-topleft"
+     transform="matrix(0.84353136,0,0,1.3599086,315.42843,46.19647)"
+     style="fill:#1e3d40;fill-opacity:1">
+    <rect
+       width="12.092022"
+       x="10.481068"
+       y="10"
+       height="7.500504"
+       style="fill:#1e3d40;fill-opacity:1;stroke-width:1.26979"
+       id="rect4907-6-67" />
+  </g>
+  <g
+     id="expand-button-toggled-topright"
+     transform="matrix(0.99668738,0,0,0.99597752,352.03008,49.83579)"
+     inkscape:label="expand-button-normal-topright"
+     style="fill:#1e3d40;fill-opacity:1">
+    <rect
+       width="10.233901"
+       x="15"
+       y="10"
+       height="10.241195"
+       style="fill:#1e3d40;fill-opacity:1;stroke-width:1.36501"
+       id="rect4907-1-5-3" />
+  </g>
+  <g
+     id="expand-button-toggled-bottomright"
+     transform="matrix(0,1.272373,-1.2726808,0,389.2523,50.925975)"
+     inkscape:label="expand-button-normal-bottomright"
+     style="fill:#1e3d40;fill-opacity:1">
+    <path
+       style="fill:#1e3d40;fill-opacity:1;stroke-width:1.81779"
+       d="m 23.003938,17.500002 -8.016517,-8.0145803 0.01257,8.0145803 z"
+       id="path22079-6" />
+  </g>
+  <g
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
+     id="expand-button-toggled-top"
+     transform="matrix(0,0.99512195,-1,0,415.71637,38.610191)">
+    <path
+       style="fill:#1e3d40;fill-opacity:1;stroke-width:1.39728"
+       id="path5560-09-9"
+       d="m 21.289216,48.746839 v 32.5 h 10.25 v -32.5 z" />
+  </g>
+  <g
+     style="fill:#1e3d40;fill-opacity:1;fill-rule:evenodd"
+     id="expand-button-toggled-bottom"
+     transform="matrix(0,-0.99300864,0.9978559,0,285.8381,101.34729)">
+    <path
+       style="fill:#1e3d40;fill-opacity:1;stroke-width:1.40026"
+       id="path5552-6-27"
+       d="M 21.284511,48.7468 V 81.316633 H 31.556325 V 48.7468 Z" />
+  </g>
+  <g
+     id="expand-button-toggled-bottomleft"
+     transform="matrix(0,-1.36,0.84698424,0,319.63164,100.61159)"
+     style="fill:#1e3d40;fill-opacity:1">
+    <rect
+       width="7.5"
+       x="15"
+       y="5.4885859"
+       height="12.042727"
+       style="fill:#1e3d40;fill-opacity:1;stroke-width:1.26716"
+       id="rect5544-61-9" />
+  </g>
 </svg>

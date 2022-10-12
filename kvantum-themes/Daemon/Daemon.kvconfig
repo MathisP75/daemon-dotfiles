@@ -78,8 +78,8 @@ light.color=#5aeedc
 mid.light.color=#5aeedc
 dark.color=#5aeedc
 mid.color=#3c3c3c
-highlight.color=#8c1011
-inactive.highlight.color=#730d0e
+highlight.color=white
+inactive.highlight.color=#5aeedc
 tooltip.base.color=#111e29
 text.color=#5aeedc
 window.text.color=#5aeedc
@@ -98,7 +98,7 @@ transparent_ktitle_label=false
 transparent_menutitle=false
 force_size_grip=true
 iconless_menu=false
-iconless_pushbutton=true
+iconless_pushbutton=false
 blur_only_active_window=false
 centered_forms=false
 disabled_icon_opacity=100
@@ -139,7 +139,7 @@ indicator.element=arrow
 text.margin.top=2
 text.margin.bottom=2
 text.margin.left=6
-text.margin.right=6
+text.margin.right=15
 frame.expansion=2.7font
 min_height=+0.1font
 
@@ -216,6 +216,8 @@ interior.element=lineedit
 text.margin.left=4
 text.margin.right=4
 frame.expansion=3.4font
+text.margin.top=5
+text.margin.bottom=5
 
 [DropDownButton]
 inherits=PanelButtonCommand
@@ -253,6 +255,7 @@ frame.bottom=4
 frame.left=4
 frame.right=4
 frame.expansion=0
+text.toggle.color=white
 
 [TreeExpander]
 inherits=PanelButtonCommand
@@ -260,6 +263,7 @@ frame=false
 interior=false
 indicator.size=9
 frame.expansion=0
+text.toggle.color=white
 
 [HeaderSection]
 inherits=PanelButtonCommand
@@ -350,6 +354,7 @@ text.margin.bottom=1
 text.margin.left=3
 text.margin.right=3
 frame.expansion=10
+text.toggle.color=white
 
 [Splitter]
 inherits=PanelButtonCommand
@@ -430,6 +435,8 @@ inherits=PanelButtonCommand
 frame.element=lineedit
 interior.element=lineedit
 frame.expansion=3.4font
+text.margin.top=5
+text.margin.bottom=5
 
 [Menu]
 inherits=PanelButtonCommand
