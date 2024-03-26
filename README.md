@@ -1,3 +1,6 @@
+Version 2.0 in the works!
+https://github.com/MathisP75/daemon-kde-mk2
+
 # daemon-dotfiles
 
 Cyberpunk style KDE rice
